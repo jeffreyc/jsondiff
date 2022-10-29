@@ -1,0 +1,19 @@
+[package]
+name = "jsondiff"
+version = "1.0.0"
+authors = ["Jeff Cousens"]
+edition = "2021"
+description = "Compares two JSON files"
+documentation = "https://github.com/jeffreyc/jsondiff"
+readme = "README.md"
+homepage = "https://github.com/jeffreyc/jsondiff"
+repository = "https://github.com/jeffreyc/jsondiff"
+license = "MIT OR Apache-2.0"
+keywords = ["cli", "json"]
+categories = ["command-line-utilities", "text-processing"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+clap = { version = "4.0.18", features = ["derive"] }
+serde_json = "1.0.87"
