@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+### Added
+
+* [#4](https://github.com/jeffreyc/jsondiff/pull/4)
+  Add GitHub workflow to build and test
+
 ### Security
 
 * [#1](https://github.com/jeffreyc/jsondiff/pull/1)
