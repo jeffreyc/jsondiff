@@ -18,6 +18,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
   Update dependencies to address https://github.com/jeffreyc/jsondiff/security/dependabot/1
 * [#3](https://github.com/jeffreyc/jsondiff/pull/3)
   Update dependencies to address https://github.com/jeffreyc/jsondiff/security/dependabot/2
+* [#5](https://github.com/jeffreyc/jsondiff/pull/5)
+  Update dependencies to address https://github.com/jeffreyc/jsondiff/security/dependabot/3
 
 ## [1.0.0] -- 2022-10-30
 
